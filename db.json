@@ -1,0 +1,46 @@
+{
+  "quotes": [
+   
+    {
+      "id": "212c",
+      "firstName": "Doriano",
+      "lastName": "Bergamin",
+      "email": "doriano.bergamin18@gmail.com",
+      "address": "3/2 Banks avenue",
+      "beds": "3",
+      "bathrooms": "4"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Benjamin",
+      "comment": "Great place! Clean, comfy, and convenient. Host was super responsive.",
+      "starRating": 5
+    },
+    {
+      "id": "2",
+      "name": "Luke",
+      "comment": "Awesome stay! Loved the stylish decor and thoughtful amenities.",
+      "starRating": 4
+    },
+    {
+      "id": "3",
+      "name": "Sarah",
+      "comment": "Average stay. The place was decent, but nothing exceptional. Cleanliness could have been improved, and amenities were basic. Host was friendly but communication was slow at times.",
+      "starRating": 3
+    },
+    {
+      "id": "4",
+      "name": "Michael",
+      "comment": "Below expectations. The accommodation lacked cleanliness and amenities promised were not up to par. Host was difficult to reach and unhelpful. Improvement needed for future guests.",
+      "starRating": 2
+    },
+    {
+      "id": "5",
+      "name": "Chloe",
+      "comment": "Disappointing experience. The place was not as advertised - dirty, noisy, and uncomfortable. Host was unresponsive to our concerns. Wouldn't recommend.",
+      "starRating": 1
+    }
+  ]
+}
