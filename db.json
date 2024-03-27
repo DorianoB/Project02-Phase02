@@ -1,8 +1,36 @@
 {
+  "contacts": [
+    {
+      "id": "85af",
+      "firstName": "Doriano",
+      "lastName": "Bergamin",
+      "email": "doriano.bergamin18@gmail.com",
+      "address": "3/2 Banks avenue",
+      "beds": "3",
+      "bathrooms": "4"
+    }
+  ],
   "quotes": [
-   
     {
       "id": "212c",
+      "firstName": "Doriano",
+      "lastName": "Bergamin",
+      "email": "doriano.bergamin18@gmail.com",
+      "address": "3/2 Banks avenue",
+      "beds": "3",
+      "bathrooms": "4"
+    },
+    {
+      "id": "c81a",
+      "firstName": "Doriano",
+      "lastName": "Bergamin",
+      "email": "doriano.bergamin18@gmail.com",
+      "address": "3/2 Banks avenue",
+      "beds": "3",
+      "bathrooms": "4"
+    },
+    {
+      "id": "0963",
       "firstName": "Doriano",
       "lastName": "Bergamin",
       "email": "doriano.bergamin18@gmail.com",
@@ -15,31 +43,31 @@
     {
       "id": "1",
       "name": "Benjamin",
-      "comment": "Great place! Clean, comfy, and convenient. Host was super responsive.",
+      "comment": "Exceptional service! From start to finish, working with homebound has been an absolute pleasure. Their team goes above and beyond to ensure all aspects of property management are handled seamlessly. Communication is prompt, transparent, and professional, making every interaction stress-free. Their attention to detail and proactive approach have truly exceeded my expectations. Highly recommend homebound] for anyone seeking top-notch property management services!",
       "starRating": 5
     },
     {
       "id": "2",
       "name": "Luke",
-      "comment": "Awesome stay! Loved the stylish decor and thoughtful amenities.",
+      "comment": "Highly efficient and reliable! Homebound consistently delivers exceptional service in managing my property. Their team is responsive and proactive, addressing any issues promptly. While they excel in most areas, a slight improvement in communication frequency would make the experience even better. Overall.",
       "starRating": 4
     },
     {
       "id": "3",
       "name": "Sarah",
-      "comment": "Average stay. The place was decent, but nothing exceptional. Cleanliness could have been improved, and amenities were basic. Host was friendly but communication was slow at times.",
+      "comment": "Adequate service, but room for improvement. Property management tasks are handled adequately, but there have been occasional lapses in communication and responsiveness. While they fulfill their basic responsibilities, there's a noticeable need for more attention to detail and consistency in service delivery.",
       "starRating": 3
     },
     {
       "id": "4",
       "name": "Michael",
-      "comment": "Below expectations. The accommodation lacked cleanliness and amenities promised were not up to par. Host was difficult to reach and unhelpful. Improvement needed for future guests.",
+      "comment": "Disappointing experience. Homebound falls short in several key areas. Communication is inconsistent, and response times are slow. Issues with property maintenance and tenant concerns are often overlooked or inadequately addressed. Improvement is urgently needed in overall service quality and professionalism.",
       "starRating": 2
     },
     {
       "id": "5",
       "name": "Chloe",
-      "comment": "Disappointing experience. The place was not as advertised - dirty, noisy, and uncomfortable. Host was unresponsive to our concerns. Wouldn't recommend.",
+      "comment": "Utterly dismal performance. Consistently failed in managing properties effectively. Maintenance issues are routinely neglected, and tenant concerns are ignored. Their incompetence has led to numerous problems and headaches. Steer clear of this company at all costs.",
       "starRating": 1
     }
   ]

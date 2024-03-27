@@ -1,7 +1,7 @@
 import { useState } from "react";
 import ReactDOM from "react-dom/client";
 
-export default function QuoteForm() {
+export default function QuoteForm({ submitUrl }) {
   const [inputs, setInputs] = useState({});
 
   const handleChange = (event) => {

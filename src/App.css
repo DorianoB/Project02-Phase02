@@ -5,20 +5,34 @@ body {
 .header {
   display: flex;
   align-items: center;
-  margin-left: 80px;
+  margin-left: 4%;
+}
+
+.header a {
+  text-decoration: none;
 }
 
 .title {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 24px;
+  color: black;
 }
 .navbar {
-  margin-left: 140px; /* Pushes navbar to the right */
+   margin-left: 200px; /* Pushes navbar to the right */
 }
 
 .navbar span {
   margin-right: 30px; /* Add some spacing between navbar items */
   font-size: 11px;
+}
+
+.navbar a {
+  color: black;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
 }
 
 .quote {
@@ -31,16 +45,64 @@ body {
 .profilepic {
   width: 800px;
   display: block;
+  /* position: sticky; */
   margin-left: auto;
   margin-right: auto; 
+  margin-bottom: 2%;
 }
 
 h2 {
   font-size: 35px;
   text-align: center;
-  color: white;
+  color:aliceblue;
   position: absolute;
   top: 30%;
   left: 50%;
   transform: translate(-50%, -50%)
+}
+
+h1 {
+ font-size: 21px; 
+ text-align: left;
+  margin-left:5%;
+  margin-right: 70%;
+}
+
+h3{
+  font-size: 21px; 
+   text-align: right;
+    margin-top: 5%;
+    margin-right:25%;
+    /* margin-left: 60%; */
+  }
+
+.about {
+  text-align: left;
+  margin-left:5%;
+  margin-right: 60%;
+}
+
+.about1{
+text-align: right;
+margin-right:5%;
+margin-left: 60%;
+}
+
+.aboutpng {
+  width: 450px;
+  height: 250px;
+  position: sticky;
+  float: right;
+  margin-right: 5%;
+  margin-top: -25%;
+}
+
+.aboutpng01 {
+  width: 450px;
+  height: 250px;
+  position: sticky;
+  float: left;
+  margin-left: 5%;
+  margin-top: -15%; 
+  margin-bottom: 5%;
 }

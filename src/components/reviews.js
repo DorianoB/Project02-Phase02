@@ -17,9 +17,9 @@ export default function Reviews() {
     <div>
       {reviews.map((r) => (
         <>
-          <p>{r.name}</p>
-          <p>{r.comment}</p>
           <p>{r.starRating}</p>
+          <p>{r.comment}</p>
+          <p>{r.name}</p>
         </>
       ))}
     </div>
