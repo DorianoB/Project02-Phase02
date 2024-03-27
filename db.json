@@ -37,6 +37,27 @@
       "address": "3/2 Banks avenue",
       "beds": "3",
       "bathrooms": "4"
+    },
+    {
+      "id": "cfa4",
+      "firstName": "Doriano",
+      "lastName": "Bergamin",
+      "email": "doriano.bergamin18@gmail.com",
+      "address": "3/2 Banks avenue"
+    },
+    {
+      "id": "bda2",
+      "firstName": "Doriano",
+      "lastName": "Bergamin",
+      "email": "doriano.bergamin18@gmail.com",
+      "address": "3/2 Banks avenue"
+    },
+    {
+      "id": "1b9e",
+      "firstName": "Doriano",
+      "lastName": "Bergamin",
+      "email": "doriano.bergamin18@gmail.com",
+      "address": "3/2 Banks avenue"
     }
   ],
   "testimonials": [

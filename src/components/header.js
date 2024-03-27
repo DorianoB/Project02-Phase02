@@ -6,7 +6,7 @@ function Header() {
     <>
       <div className="header">
         <Link to="/">
-          <h1 className="title">Homebound</h1>
+          <h1 className="title">homebound</h1>
         </Link>
 
         <Nav />

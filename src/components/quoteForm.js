@@ -32,27 +32,32 @@ export default function QuoteForm({ submitUrl }) {
 
   return (
     <form className="quoteform" onSubmit={handleSubmit}>
-      <label>
-        First Name:
+      <label id="firstname">
+        First Name:{" "}
         <input
+          id="firstname"
           type="text"
           name="firstName"
           value={inputs.firstName || ""}
           onChange={handleChange}
         />
       </label>
-      <label>
+
+      <label id="lastname">
         Last Name:
         <input
+          id="lastname"
           type="text"
           name="lastName"
           value={inputs.lastName || ""}
           onChange={handleChange}
         />
       </label>
-      <label>
+
+      <label id="email">
         Email Address:
         <input
+          id="email"
           type="text"
           name="email"
           value={inputs.email || ""}
@@ -84,6 +89,15 @@ export default function QuoteForm({ submitUrl }) {
           type="text"
           name="bathrooms"
           value={inputs.bathrooms || ""}
+          onChange={handleChange}
+        />
+      </label>
+      <label>
+        Comments
+        <input
+          type="text"
+          name="comments"
+          value={inputs.comments || ""}
           onChange={handleChange}
         />
       </label>
