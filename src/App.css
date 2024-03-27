@@ -106,3 +106,9 @@ margin-left: 60%;
   margin-top: -15%; 
   margin-bottom: 5%;
 }
+
+.quoteform{
+  border: solid black;
+  background-color: white;
+  padding: 5px;
+}

@@ -31,7 +31,7 @@ export default function QuoteForm({ submitUrl }) {
   };
 
   return (
-    <form onSubmit={handleSubmit}>
+    <form className="quoteform" onSubmit={handleSubmit}>
       <label>
         First Name:
         <input
