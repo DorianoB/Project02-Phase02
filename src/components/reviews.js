@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import Rating from "./rating";
 
 export default function Reviews() {
   const [reviews, setReviews] = useState([]);

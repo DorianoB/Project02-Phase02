@@ -1,5 +1,13 @@
+@font-face {
+  font-family: "Airbnb";
+  src: local("airbnb-cereal-font"),
+   url("./fonts/airbnb-cereal-font/AirbnbCereal_W_Lt.otf") format("truetype");
+  font-weight: bold;
+ }
+
 body {
   background-color:aliceblue;
+  font-family:Airbnb;
 }
 
 .header {
@@ -13,9 +21,9 @@ body {
 }
 
 .title {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 24px;
   color: black;
+  font-family: "/fonts/airbnb-cereal-font/AirbnbCereal_W_Blk.otf";
 }
 .navbar {
    margin-left: 200px; /* Pushes navbar to the right */
@@ -40,23 +48,32 @@ body {
   border-radius: 20px;
   background-color: #FF5A5F;
   padding: 5px;
+  font-family:"/fonts/airbnb-cereal-font/AirbnbCereal_W_Blk.otf";
+}
+
+.phone{
+  border: solid;
+  border-radius: 20px;
+  /* background-color: #FF5A5F; */
+  padding: 5px;
+  font-family:"/fonts/airbnb-cereal-font/AirbnbCereal_W_Blk.otf";
 }
 
 .profilepic {
   width: 800px;
   display: block;
-  /* position: sticky; */
   margin-left: auto;
   margin-right: auto; 
   margin-bottom: 2%;
 }
 
 h2 {
+  font-family:"/fonts/airbnb-cereal-font/AirbnbCereal_W_Blk.otf";
   font-size: 35px;
   text-align: center;
   color:aliceblue;
   position: absolute;
-  top: 30%;
+  top: 55%;
   left: 50%;
   transform: translate(-50%, -50%)
 }
@@ -66,14 +83,15 @@ h1 {
  text-align: left;
   margin-left:5%;
   margin-right: 70%;
+  font-family:"/fonts/airbnb-cereal-font/AirbnbCereal_W_Blk.otf";
 }
 
 h3{
   font-size: 21px; 
-   text-align: right;
-    margin-top: 5%;
-    margin-right:25%;
-    /* margin-left: 60%; */
+  text-align: right;
+  margin-top: 5%;
+  margin-right:34%;
+  font-family:"/fonts/airbnb-cereal-font/AirbnbCereal_W_Blk.otf";
   }
 
 .about {
@@ -83,26 +101,92 @@ h3{
 }
 
 .about1{
-text-align: right;
+/* text-align: right; */
 margin-right:5%;
-margin-left: 60%;
+margin-left: 53%;
+
 }
 
 .aboutpng {
-  width: 450px;
+  width: 429px;
   height: 250px;
   position: sticky;
   float: right;
   margin-right: 5%;
   margin-top: -25%;
+  border-radius: 20px;
 }
 
 .aboutpng01 {
-  width: 450px;
+  width: 429px;
   height: 250px;
   position: sticky;
   float: left;
   margin-left: 5%;
-  margin-top: -15%; 
+  margin-top: -16%; 
   margin-bottom: 5%;
+  border-radius: 20px;
+
+}
+
+.fieldset{
+  margin-left: 10%;
+  /* margin-right: 5%; */
+  margin-bottom: 2%;
+  padding:1%;
+  border-radius:10px;
+  border: none;
+}
+
+label input{
+  display:block;
+  margin-left: 2%;
+  width: 220px;
+  margin-bottom: 2%;
+  font-family:"src/fonts/airbnb-cereal-font/AirbnbCereal_W_Blk.otf";
+  font-size: 10px;
+}
+label textarea{
+  display:block;
+  margin-left: 2%;
+  font-family:"src/fonts/airbnb-cereal-font/AirbnbCereal_W_Blk.otf";
+  font-size: 10px;
+}
+label{
+  margin-left: 2%;
+  font-size: 12px;
+}
+
+.checkbox label {
+  display:inline-block;
+}
+
+.checkbox input{
+  margin-left: 2%;
+  margin-bottom: 2%;
+}
+
+#comment {
+  height: 100px;
+  width: 220px;
+}
+
+#size {
+  margin-left: 2%;
+  margin-bottom:1px;
+  font-family:"src/fonts/airbnb-cereal-font/AirbnbCereal_W_Blk.otf";
+}
+
+#submit{
+  margin-left: 2%;
+  font-size: 12px;
+  font-family:"src/fonts/airbnb-cereal-font/AirbnbCereal_W_Blk.otf";
+}
+.quotepic{
+  height: 550px;
+  width: 490px;
+  float: right;
+  margin-right: 5%;
+  position: sticky;
+  margin-top: -62%;
 }
