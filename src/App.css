@@ -142,7 +142,10 @@ label input{
   display:block;
   margin-left: 2%;
   width: 220px;
+  height: 15px;
   margin-bottom: 2%;
+  border-radius: 15px;
+  padding-left: 5px;
   font-family:"src/fonts/airbnb-cereal-font/AirbnbCereal_W_Blk.otf";
   font-size: 10px;
 }
@@ -169,6 +172,10 @@ label{
 #comment {
   height: 100px;
   width: 220px;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
 }
 
 #size {
@@ -181,6 +188,7 @@ label{
   margin-left: 2%;
   font-size: 12px;
   font-family:"src/fonts/airbnb-cereal-font/AirbnbCereal_W_Blk.otf";
+  border-radius: 10px;
 }
 .quotepic{
   height: 550px;
@@ -188,5 +196,5 @@ label{
   float: right;
   margin-right: 5%;
   position: sticky;
-  margin-top: -62%;
+  margin-top: -64%;
 }
