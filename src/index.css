@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "Airbnb";
+  src: local("airbnb-cereal-font"),
+   url("./fonts/airbnb-cereal-font/air.otf") format("truetype");
+  font-weight: bold;
+ }
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

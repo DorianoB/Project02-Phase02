@@ -1,3 +1,4 @@
+import "./fonts/airbnb-cereal-font/air.otf";
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";

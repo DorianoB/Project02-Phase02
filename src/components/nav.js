@@ -22,6 +22,9 @@ function Nav() {
             <Link to="/quote">Get a Quote</Link>
           </span>
         </strong>
+        {/* <span className="phone">
+          <Link to="/contact">Contact us: 0481 924 285</Link>
+        </span> */}
       </nav>
     </>
   );
