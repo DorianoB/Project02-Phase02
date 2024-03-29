@@ -198,3 +198,33 @@ label{
   position: sticky;
   margin-top: -64%;
 }
+
+#fieldreview{
+margin-left: 2%;
+margin-right: 50%;
+margin-bottom: 2%;
+border: none;
+}
+#fieldreviews{
+margin-left: 50%;
+margin-right: 2%;
+margin-bottom: 2%;
+border: none;
+}
+.starRating{
+  margin-bottom: -3%;
+}
+ .name{
+  margin-bottom: -15%;
+  font-family:"src/fonts/airbnb-cereal-font/AirbnbCereal_W_Blk.otf";
+} 
+.starRatings{
+  margin-bottom: -3%;
+  margin-top: -8%;
+}
+
+ .names{
+  margin-bottom:-4%;
+  font-family:"src/fonts/airbnb-cereal-font/AirbnbCereal_W_Blk.otf";
+} 
+
