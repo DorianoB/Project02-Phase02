@@ -18,9 +18,16 @@ export default function Reviews() {
     <div>
       {reviews.map((r) => (
         <>
-          <p>{r.starRating}</p>
-          <p>{r.comment}</p>
-          <p>{r.name}</p>
+          <fieldset id="fieldreview">
+            <p className="starRating">{r.starRating}</p>
+            <p className="review">{r.comment}</p>
+            <p className="name">{r.name}</p>
+          </fieldset>
+          <fieldset id="fieldreviews">
+            <p className="starRatings">{r.starRatings}</p>
+            <p className="reviews">{r.comments}</p>
+            <p className="names">{r.names}</p>
+          </fieldset>
         </>
       ))}
     </div>

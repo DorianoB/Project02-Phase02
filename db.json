@@ -64,6 +64,9 @@
     },
     {
       "id": "efcc"
+    },
+    {
+      "id": "3e26"
     }
   ],
   "testimonials": [
@@ -87,15 +90,15 @@
     },
     {
       "id": "4",
-      "name": "Michael",
-      "comment": "Disappointing experience. Homebound falls short in several key areas. Communication is inconsistent, and response times are slow. Issues with property maintenance and tenant concerns are often overlooked or inadequately addressed. Improvement is urgently needed in overall service quality and professionalism.",
-      "starRating": 2
+      "names": "Michael",
+      "comments": "Disappointing experience. Homebound falls short in several key areas. Communication is inconsistent, and response times are slow. Issues with property maintenance and tenant concerns are often overlooked or inadequately addressed. Improvement is urgently needed in overall service quality and professionalism.",
+      "starRatings": 2
     },
     {
       "id": "5",
-      "name": "Chloe",
-      "comment": "Utterly dismal performance. Consistently failed in managing properties effectively. Maintenance issues are routinely neglected, and tenant concerns are ignored. Their incompetence has led to numerous problems and headaches. Steer clear of this company at all costs.",
-      "starRating": 1
+      "names": "Chloe",
+      "comments": "Utterly dismal performance. Consistently failed in managing properties effectively. Maintenance issues are routinely neglected, and tenant concerns are ignored. Their incompetence has led to numerous problems and headaches. Steer clear of this company at all costs.",
+      "starRatings": 1
     }
   ]
 }
