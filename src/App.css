@@ -228,3 +228,21 @@ border: none;
   font-family:"src/fonts/airbnb-cereal-font/AirbnbCereal_W_Blk.otf";
 } 
 
+.reviews1{
+  height: 580px;
+  width: 470px;
+  float: right;
+  margin-right: 1%;
+  position: sticky;
+  margin-top: -106%;
+}
+.reviews2{
+  height: 400px;
+  width: 450px;
+  float: left;
+  margin-left: 1%;
+  position: sticky;
+  margin-top: -38%;
+  margin-bottom: 1%;
+}
+

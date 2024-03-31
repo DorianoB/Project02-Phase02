@@ -30,6 +30,8 @@ export default function Reviews() {
           </fieldset>
         </>
       ))}
+      <img className="reviews1" src="/images/reviews1.png" />
+      <img className="reviews2" src="/images/reviews2.png" />
     </div>
   );
 }
