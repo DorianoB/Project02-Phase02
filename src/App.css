@@ -245,4 +245,60 @@ border: none;
   margin-top: -38%;
   margin-bottom: 1%;
 }
+.cleaning{
+  margin-left: 15%;
+  font-family:"src/fonts/airbnb-cereal-font/AirbnbCereal_W_Blk.otf";
+}
+.textCleaning{
+  margin-left: 9%;
+  margin-right: 50%;
+  text-align: justify;
+  margin-top: 3%;
+  margin-bottom: 5%;
+}
+.cleaningPic{
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  margin-left: 28%;
+  margin-top:5%;
+}
+.management{
+  font-family:"src/fonts/airbnb-cereal-font/AirbnbCereal_W_Blk.otf";
+  margin-left: 62%;
+}
+.textManagement{
+  text-align: justify;
+  margin-left: 40%;
+  margin-right: 10%;
+  margin-top: 3%;
+}
+.managementPic{
+  position: absolute;
+  height: 180px;
+  width: 180px;
+  border-radius: 50%;
+  margin-left: 18%;
+}
 
+.marketing{
+  margin-left: 30%;
+  font-family:"src/fonts/airbnb-cereal-font/AirbnbCereal_W_Blk.otf";
+  margin-top: 9%;
+}
+.textMarketing{
+ margin-left: 10%;
+  margin-right: 40%;
+  text-align: justify;
+  margin-top: 3%;
+  margin-bottom: 5%;
+}
+.marketingPic{
+  position: absolute;
+  height: 180px;
+  width: 180px;
+  border-radius: 50%;
+  margin-left: 65%;
+  margin-top:-2%;
+}

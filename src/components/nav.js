@@ -14,9 +14,9 @@ function Nav() {
         <span>
           <Link to="/reviews">Reviews</Link>
         </span>
-        <span>
+        {/* <span>
           <Link to="/contact">Contact</Link>
-        </span>
+        </span> */}
         <strong>
           <span className="quote">
             <Link to="/quote">Get a Quote</Link>
