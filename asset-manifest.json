@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Project02-Phase02/static/css/main.4d17d66e.css",
+    "main.js": "/Project02-Phase02/static/js/main.636d717a.js",
+    "static/js/453.ed3810f9.chunk.js": "/Project02-Phase02/static/js/453.ed3810f9.chunk.js",
+    "static/media/air.otf": "/Project02-Phase02/static/media/air.81798c6cdace650a8c1a.otf",
+    "static/media/AirbnbCereal_W_Lt.otf": "/Project02-Phase02/static/media/AirbnbCereal_W_Lt.6cb70d2c3d67dfe9b7fc.otf",
+    "index.html": "/Project02-Phase02/index.html",
+    "main.4d17d66e.css.map": "/Project02-Phase02/static/css/main.4d17d66e.css.map",
+    "main.636d717a.js.map": "/Project02-Phase02/static/js/main.636d717a.js.map",
+    "453.ed3810f9.chunk.js.map": "/Project02-Phase02/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d17d66e.css",
+    "static/js/main.636d717a.js"
+  ]
+}
