@@ -1,3 +1,5 @@
+import about from "../images/about.png";
+
 export default function About() {
   return (
     <>
@@ -11,7 +13,7 @@ export default function About() {
         exceed your expectations. Get in touch today and experience the
         difference with homebound.{" "}
       </p>
-      <img className="aboutpng" src="images/about.png" />
+      <img className="aboutpng" src={about} />
       <h3>Join our Team</h3>
       <p className="about1">
         We’re hiring! If you’re interested in joining the Hometime team, take a
