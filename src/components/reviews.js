@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Rating from "./rating";
+import review1 from "../images/reviews1.png";
+import review2 from "../images/reviews2.png";
 
 export default function Reviews() {
   const [reviews, setReviews] = useState([]);
@@ -30,8 +32,8 @@ export default function Reviews() {
           </fieldset>
         </>
       ))}
-      <img className="reviews1" src="/images/reviews1.png" />
-      <img className="reviews2" src="/images/reviews2.png" />
+      <img className="reviews1" src={review1} />
+      <img className="reviews2" src={review2} />
     </div>
   );
 }
