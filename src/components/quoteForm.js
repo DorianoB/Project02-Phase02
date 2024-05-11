@@ -1,5 +1,6 @@
 import { useState } from "react";
 import ReactDOM from "react-dom/client";
+import quote from "../images/quote.jpg";
 
 export default function QuoteForm({ submitUrl }) {
   const [inputs, setInputs] = useState({});
@@ -143,7 +144,7 @@ export default function QuoteForm({ submitUrl }) {
           <input id="submit" type="submit" value={"Contact us"} />
         </fieldset>
       </form>
-      <img className="quotepic" src="/images/quote.jpg" />
+      <img className="quotepic" src={quote} />
     </>
   );
 }

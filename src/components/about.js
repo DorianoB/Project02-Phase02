@@ -1,4 +1,5 @@
 import about from "../images/about.png";
+import about01 from "../images/about01.png";
 
 export default function About() {
   return (
@@ -20,7 +21,7 @@ export default function About() {
         look at our job openings. We’re a fully remote company with team members
         in Australia, the Philippines, Indonesia, and Argentina.
       </p>
-      <img className="aboutpng01" src="images/about01.png" />
+      <img className="aboutpng01" src={about01} />
     </>
   );
 }
