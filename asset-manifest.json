@@ -1,18 +1,26 @@
 {
   "files": {
     "main.css": "/Project02-Phase02/static/css/main.4d17d66e.css",
-    "main.js": "/Project02-Phase02/static/js/main.fe8f6a27.js",
+    "main.js": "/Project02-Phase02/static/js/main.5b1282bc.js",
     "static/js/453.ed3810f9.chunk.js": "/Project02-Phase02/static/js/453.ed3810f9.chunk.js",
+    "static/media/about01.png": "/Project02-Phase02/static/media/about01.6919dbef25a2f36ef111.png",
+    "static/media/reviews1.png": "/Project02-Phase02/static/media/reviews1.94c0d3a61189f0e85f6f.png",
+    "static/media/profilepic.png": "/Project02-Phase02/static/media/profilepic.007d1c56f30faa96b939.png",
     "static/media/about.png": "/Project02-Phase02/static/media/about.2eb045e10bfc5ef3c969.png",
+    "static/media/marketing.png": "/Project02-Phase02/static/media/marketing.b8c028967daefb773560.png",
+    "static/media/cleaning.png": "/Project02-Phase02/static/media/cleaning.eb0b268b7524f5839614.png",
+    "static/media/reviews2.png": "/Project02-Phase02/static/media/reviews2.9d513129ba1efa950989.png",
+    "static/media/management.png": "/Project02-Phase02/static/media/management.24babdf914b538035131.png",
+    "static/media/quote.jpg": "/Project02-Phase02/static/media/quote.15825f0b079db7dfd2c1.jpg",
     "static/media/air.otf": "/Project02-Phase02/static/media/air.81798c6cdace650a8c1a.otf",
     "static/media/AirbnbCereal_W_Lt.otf": "/Project02-Phase02/static/media/AirbnbCereal_W_Lt.6cb70d2c3d67dfe9b7fc.otf",
     "index.html": "/Project02-Phase02/index.html",
     "main.4d17d66e.css.map": "/Project02-Phase02/static/css/main.4d17d66e.css.map",
-    "main.fe8f6a27.js.map": "/Project02-Phase02/static/js/main.fe8f6a27.js.map",
+    "main.5b1282bc.js.map": "/Project02-Phase02/static/js/main.5b1282bc.js.map",
     "453.ed3810f9.chunk.js.map": "/Project02-Phase02/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d17d66e.css",
-    "static/js/main.fe8f6a27.js"
+    "static/js/main.5b1282bc.js"
   ]
 }
